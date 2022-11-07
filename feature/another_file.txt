@@ -1,1 +1,3 @@
 Yet another file in feature-1 branch
+
+This file is updated in the local git repository
