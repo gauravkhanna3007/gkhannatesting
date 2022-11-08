@@ -1,3 +1,3 @@
 Adding a new file in feature-1 branch
 
-Modifying the file in local branch
+Rejecting changes on both the feature-1 branch in local and remote repository and making changes independently
