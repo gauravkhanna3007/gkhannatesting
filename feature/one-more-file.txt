@@ -1,1 +1,3 @@
 Created the file in feature branch in remote repository
+
+New line added to one-more-file via feature-2 branch
